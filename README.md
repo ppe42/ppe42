@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppe42
+- 👋 Hi, I’m @Janine.
 - 👀 I’m interested in learning Python, C, and working towards coding in the context of linguistic app support
 - 🌱 I’m currently learning Python through Codecademy and CS50X (Introduction to Coding - Harvard)
 - 💞️ I’m looking to collaborate on basic Python projects that use Python to write linguistic rules of different languages 
